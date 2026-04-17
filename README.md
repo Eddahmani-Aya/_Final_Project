@@ -1,4 +1,4 @@
-# 🏆 YLH – Final Year Project (PFE)
+# 🏆  – Final Year Project (PFE)
 
 ## Description
 YLH is my final year project, currently under development.
